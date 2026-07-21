@@ -1,13 +1,15 @@
 <img width="3526" height="1362" alt="image" src="https://github.com/user-attachments/assets/224c9a51-6169-4ea5-ab32-f3f6201b173f" />## Hi there 👋 It's me Azfar Javith Ali
 
 Computer Science Student 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
                                               
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- Student at <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="40" alt="Dhaanish Chennai Logo">
+- Student at <a href="https://dhaanishchennai.in/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="40" alt="Dhaanish Chennai">
+</a>
 
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/feed/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_az_javith_/)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/feed/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_az_javith_/)<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br />
 
 ### I code in
 <p align="left">
