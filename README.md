@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/224c9a51-6169-4ea5-ab32-f3f6201b173f" alt="Banner">
+
 
 # Hi there 👋 I'm Azfar Javith Ali
 
