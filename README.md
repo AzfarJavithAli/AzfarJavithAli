@@ -24,7 +24,7 @@
 - 💡 Foundation in **Java, SQL, HTML & CSS**, now expanding into full-stack development
   
 - 🎯 Goal: land a software developer role at a top tech company
-- 
+ 
 - 📚 Learning actively through **LeetCode, HackerRank and hands-on projects**
   
 - 🤝 Open to internships, collaborations, and beginner-friendly open-source contributions
