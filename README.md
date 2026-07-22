@@ -29,10 +29,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <a href="https://www.instagram.com/_az_javith_/">
     <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  [![Gmail](https://shields.io)](azfarjavithali@gmail.com)
+ </p>
+ [![Gmail](https://shields.io)](azfarjavithali@gmail.com)
 
-</p>
-
+ 
 ---
 
 ## 💻 Tech Stack
