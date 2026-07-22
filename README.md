@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Azfar Javith Ali
-<img align="right" alt="Coding" width="280"
+<img align="right" alt="Coding" width="250"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
