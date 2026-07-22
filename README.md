@@ -1,8 +1,7 @@
-
-
 # Hi there 👋 I'm Azfar Javith Ali
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Third-Year Computer Science & Engineering Student
 
