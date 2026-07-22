@@ -2,7 +2,7 @@
 <img align="right" width="240"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Computer Science Engineering  🏫 Student at  <a href="https://dhaanishchennai.in/" target="_blank">
+🎓 Computer Science Engineering  🏫 Student At   <a href="https://dhaanishchennai.in/" target="_blank">
   <img  src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
 
@@ -12,6 +12,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 💻 Java | SQL | HTML | CSS
+
+
+
 
 
 
