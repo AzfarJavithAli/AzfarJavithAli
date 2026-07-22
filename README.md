@@ -1,18 +1,19 @@
 # Hi there 👋 I'm Azfar Javith Ali
-<img align="right" alt="Terminal" width="350"
-src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" width="270"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-🎓 Third-Year Computer Science & Engineering Student
-
-💡 Passionate about Software Development, Problem Solving, and AI
-
-🌱 Currently learning Data Structures & Algorithms and integrating AI into my workflow
+🎓 Computer Science Engineering Student 
 
 🏫 Student at
 <a href="https://dhaanishchennai.in/" target="_blank">
   <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
+
+🌱 Learning ReactJS, MySQL & AI
+
+💻 Java | SQL | HTML | CSS
+
+
 
 ---
 
