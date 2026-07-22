@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Azfar Javith Ali
-<img align="right" width="240"
+<img align="right" width="180"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Computer Science Engineering  🏫 Student At   <a href="https://dhaanishchennai.in/" target="_blank">
