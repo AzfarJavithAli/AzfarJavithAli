@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Azfar Javith Ali
-<img align="right" alt="AI Coding" width="350"
-src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Terminal" width="350"
+src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 
 🎓 Third-Year Computer Science & Engineering Student
