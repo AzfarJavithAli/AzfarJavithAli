@@ -1,28 +1,36 @@
-# Hi there 👋 I'm Azfar Javith Ali
+# Hi there, I'm Azfar Javith Ali 👋
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Computer Science Engineering Student  
-🏫 Student at
+🎓 Third-Year B.E. Computer Science & Engineering Student
+🏫 Studying at
 <a href="https://dhaanishchennai.in/">
   <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
+📍 Chennai, Tamil Nadu, India
 
-> Aspiring backend developer focused on Java and scalable systems.  
-> Currently deep in DSA and system design, building projects that solve real problems and sharpen my fundamentals.
+> Building toward a career as a software developer, with a strong interest in AI and its
+> growing role in software engineering. Currently strengthening my fundamentals in
+> Python, SQL, and Data Structures & Algorithms — one problem at a time.
 
-🌱 Currently learning **ReactJS, MySQL & Artificial Intelligence**  
-💻 Passionate about **Java, Web Development, Problem Solving & AI**  
-🚀 Aspiring Full-Stack Developer  
-📍 Chennai, Tamil Nadu, India  
-🤝 Open to internships, collaborations, and open-source contributions
+---
+
+## 🧭 About Me
+
+- 🔭 Currently sharpening my skills in **Python, SQL, and DSA** through practical, project-based learning
+- 🌱 Exploring **AI/ML** and how it's reshaping the software development landscape
+- 💡 Foundation in **Java, SQL, HTML & CSS**, now expanding into full-stack development
+- 🎯 Goal: land a software developer role at a top tech company
+- 📚 Learning actively through **LeetCode, HackerRank, and hands-on YouTube projects**
+- 🗣️ Also working on improving my English communication and technical presentation skills
+- 🤝 Open to internships, collaborations, and beginner-friendly open-source contributions
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/azfar-javith-ali-j-cr7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:azfarjavithali@gmail.com">
@@ -34,13 +42,23 @@
 
 ## 💻 Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
+</p>
+
+**Web**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" height="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" height="40"/>
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40"/>
 </p>
 
 ---
@@ -48,29 +66,29 @@
 ## 🛠 Tools & IDEs
 
 <p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img height="50" src="https://img.icons8.com/color/50/git.png" alt="Git"/>
-  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png" alt="Eclipse"/>
-  <img height="50" src="https://img.icons8.com/color/480/notion--v1.png" alt="Notion"/>
+  <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img height="45" src="https://img.icons8.com/color/50/git.png" alt="Git"/>
+  <img height="45" src="https://img.icons8.com/officel/480/java-eclipse.png" alt="Eclipse"/>
+  <img height="45" src="https://img.icons8.com/color/480/notion--v1.png" alt="Notion"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Chatbot](https://github.com/YOUR-USERNAME/YOUR-REPO)
-`[One line: what it does — e.g. "A rule-based FAQ chatbot with intent matching"]`
-**Tech:** `[e.g. Python, NLTK]`
+### 🔹 [AI Chatbot](https://github.com/AzfarJavithAli/codsoft_tasks/blob/main/chatbot.py)
+A Python-based chatbot built as part of my AI internship, designed to understand user input and respond intelligently.
+**Tech:** `Python`
 
-### 🔹 [Recommendation System](https://github.com/YOUR-USERNAME/YOUR-REPO)
-`[One line: what it recommends and how — e.g. "Movie recommender using collaborative filtering"]`
-**Tech:** `[e.g. Python, Pandas, scikit-learn]`
+### 🔹 [Recommendation System](https://github.com/AzfarJavithAli/codsoft_tasks/blob/main/recommentation_system.py)
+A recommendation engine built in Python that suggests items to users based on defined logic — an intro to how platforms like Netflix and Amazon personalize suggestions.
+**Tech:** `Python`
 
-### 🔹 [Tic-Tac-Toe Game](https://github.com/YOUR-USERNAME/YOUR-REPO)
-`[One line: e.g. "Console-based two-player game with win/draw detection"]`
-**Tech:** `[e.g. Java]`
+### 🔹 [Tic-Tac-Toe AI](https://github.com/AzfarJavithAli/codsoft_tasks/blob/main/tic-tac-toe.py)
+A Tic-Tac-Toe game with an AI opponent, built to practice game logic and decision-making algorithms in Python.
+**Tech:** `Python`
 
-> 📌 *Fill in the repo links and tech stack for each — send them to me and I'll finalize this section.*
+> 📁 All three were completed as part of my **AI Internship at CodSoft**.
 
 ---
 
@@ -86,15 +104,19 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Get In Touch
 
 <p align="left">
   <a href="mailto:azfarjavithali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/azfar-javith-ali-j-cr7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-📧 Email: azfarjavithali@gmail.com
+📧 **Email:** azfarjavithali@gmail.com
+
+---
+
+<p align="center"><i>"Consistency beats intensity — showing up every day to get 1% better."</i></p>
