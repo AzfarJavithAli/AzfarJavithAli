@@ -27,7 +27,7 @@
 
 - 🌱 Exploring **AI/ML** and how it's reshaping the software development landscape
 
-- 💡 Foundation in **==Java,== ==SQL,== ==HTML== ==&== ==CSS==** now expanding into full-stack development
+- 💡 Foundation in **==Java,== ==SQL,== ==HTML== ==&== ==CSS==** now expanding into full-stack development <mark>Java</mark>
  
 - 📚 Learning actively through **LeetCode, HackerRank and hands-on projects**
   
