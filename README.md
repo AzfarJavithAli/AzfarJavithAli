@@ -8,16 +8,8 @@
   <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
 
+
 📍 Chennai, Tamil Nadu, India
-
-
-
-
-
-
-
-
-
 
 
 
