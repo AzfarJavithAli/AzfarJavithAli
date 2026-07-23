@@ -38,24 +38,11 @@
 
 ## 💻 Tech Stack
 
-**Languages**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
-</p>
+## 💻 Tech Stack
 
-**Web**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" height="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" height="40"/>
-</p>
-
-**Database**
-<p align="left">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40"/>
-</p>
+| Languages | Web | Database |
+|------------|-----|----------|
+| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript.png" height="40"/> | <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40"/> | <img src="https://img.icons8.com/color/48/mysql-logo.png" height="40"/> |
 
 ---
 
