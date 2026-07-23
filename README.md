@@ -4,9 +4,10 @@
 
 🎓 Third-Year B.E. Computer Science & Engineering Student
 🏫 Studying at
-<a href="https://dhaanishchennai.in/">
+ <a href="https://dhaanishchennai.in/">
   <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
+
 📍 Chennai, Tamil Nadu, India
 
 > Building toward a career as a software developer, with a strong interest in AI and its
