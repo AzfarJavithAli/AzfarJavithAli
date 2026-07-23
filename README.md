@@ -10,9 +10,9 @@
 
 📍 Chennai, Tamil Nadu, India
 
-> Building toward a career as a software developer, with a strong interest in AI and its
-> growing role in software engineering. Currently strengthening my fundamentals in
-> Python, SQL, and Data Structures & Algorithms — one problem at a time.
+
+
+
 
 ---
 
@@ -70,7 +70,7 @@ A recommendation engine built in Python that suggests items to users based on de
 A Tic-Tac-Toe game with an AI opponent, built to practice game logic and decision-making algorithms in Python.
 **Tech:** `Python`
 
-> 📁 All three were completed as part of my **AI Internship at CodSoft**.
+
 
 ---
 
