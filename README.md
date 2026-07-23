@@ -28,8 +28,6 @@
 - 🌱 Exploring **AI/ML** and how it's reshaping the software development landscape
 
 - 💡 Foundation in **Java, SQL, HTML & CSS**, now expanding into full-stack development
-  
-- 🎯 Goal: land a software developer role at a top tech company
  
 - 📚 Learning actively through **LeetCode, HackerRank and hands-on projects**
   
