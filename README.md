@@ -29,7 +29,7 @@
   
 - 🤝 Open to internships, collaborations, and beginner-friendly open-source contributions
 
-- Here's my portfolio <a href="https://azfarjavithali.github.io/portfolio/">
+- <a href="https://azfarjavithali.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
