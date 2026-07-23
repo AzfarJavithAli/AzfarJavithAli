@@ -3,8 +3,8 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Third-Year B.E. Computer Science & Engineering Student
-🏫 Studying at
- <a href="https://dhaanishchennai.in/">
+
+🏫 Studying at <a href="https://dhaanishchennai.in/">
   <img src="https://github.com/user-attachments/assets/2fda479b-a436-473f-bd28-1800d4db5183" height="35" alt="Dhaanish Chennai">
 </a>
 
