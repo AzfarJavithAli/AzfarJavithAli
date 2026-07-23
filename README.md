@@ -38,11 +38,10 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 | Languages | Web | Database |
 |------------|-----|----------|
 | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript.png" height="40"/> | <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/react-native.png" height="40"/> | <img src="https://img.icons8.com/color/48/mysql-logo.png" height="40"/> |
+
 
 ---
 
