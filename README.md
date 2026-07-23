@@ -27,7 +27,7 @@
 
 - 🌱 Exploring **AI/ML** and how it's reshaping the software development landscape
 
-- 💡 Strong foundation in <mark>Java</mark>, <mark>SQL</mark>, <mark>HTML</mark> & <mark>CSS</mark>, currently expanding into full-stack development with ReactJS and MySQL. 
+- 💡 Foundation in `Java`, `SQL`, `HTML` `&` `CSS`, now expanding into full-stack development. 
  
 - 📚 Learning actively through **LeetCode, HackerRank and hands-on projects**
   
